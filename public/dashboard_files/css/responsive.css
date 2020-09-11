@@ -1,0 +1,216 @@
+
+@media (min-width: 1920px) {
+
+	
+}
+
+/* Normal desktop :1170px. */
+@media (min-width: 1170px) and (max-width: 1349px) {	
+	
+	
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {	
+	
+
+    
+    
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 992px){
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .table-st th{
+        min-width: 100px !important;
+    }
+    .recently-saled-cars .table-st th{
+        min-width: 100% !important;
+    }
+    .f--ul li.list-inline-item {
+        margin: 5px 0;
+        padding: 0;
+    }
+	
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .padd-30 {
+        padding: 20px 0;
+    }
+    .padd-15 {
+        padding: 8px 0;
+    }
+    .main-title .m-btn{
+        margin: 5px 0;
+    }
+    .noti-logout-ul {
+        margin-left: 0;
+        width: 100%;
+    }
+    .noti-logout-ul ul{
+        float: left;
+        margin-left: 15px;
+    }
+    .notifications-dropdown .dropdown-menu.show {
+        right: 0 !important;
+    }
+    .notifi-list {
+        min-width: 294px;
+    }
+    .notifications-dropdown .notifi-list .notification-info-p {
+        width: 76%;
+    }
+    .l-sidebar{
+        right: -70px;
+    }
+    main.l-main {
+        width: 100%;
+        padding: 100px 5px 30px 5px;
+    }
+    .l-header {
+        padding-right: 0;
+    }
+    .serach-div{
+        display: none;
+    }
+    .sidebar-is-expanded .l-sidebar {
+        width: 240px;
+        right: 0;
+        box-shadow: 7px 0px 20px 0px #1272ba33;
+    }
+    .sidebar-is-expanded main.l-main {
+        padding-right: 0;
+    }
+    .sidebar-is-expanded .noti-logout-ul{
+        display: none;
+    }
+    .chart-box {
+        background: #fff;
+        padding: 7px 10px;
+        margin: 5px 0;
+    }
+    .table-st th{
+        min-width: 100px !important;
+    }
+    .recently-saled-cars .table-st th{
+        min-width: 100% !important;
+    }
+    .gallery .g-img {
+        height: 180px;
+        width: 100%;
+    }
+    .gallery .col-sm-6{
+        padding: 0;
+    }
+    .card {
+        padding: 15px 0;
+    }
+    .g-item-features ul li:first-child {
+        padding: 0 25px;
+    }
+    .main-title{
+        padding-left: 15px;
+    }
+    .map-notification-list {
+        width: 100%;
+    }
+    .ds-non{
+        display: none;
+    }
+    .main-v-tabs ul{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        padding: 0 2px;
+    }
+    .main-v-tabs ul::-webkit-scrollbar {
+        display: none;
+    }
+    ::-webkit-scrollbar {
+        height: 3px;
+    }
+    .up-box {
+        width: 100%;
+    }
+    .up-box .up-p {
+        display: inline-block;
+        margin-top: 0;
+        width: 72%;
+    }
+    .up-box .up-img{
+        width: 53px;
+        height: 53px;
+        padding: 11px;
+    }
+    .upload-images-box .ff_fileupload_wrap .ff_fileupload_dropzone_wrap{
+        width: 100%;
+    }
+    .upload-images-box .ff_fileupload_wrap {
+        width: 100%;
+        display: inline-block;
+        margin-right: 0;
+    }
+    .login-page {
+        padding: 0;
+    }
+    .plate-no ul li {
+        margin-bottom: 5px;
+    }
+    .mainten-card-sm-info-l {
+        width: 100%;
+    }
+    .mainten-card ul.mainten-card-ul {
+        display: inline-block;
+        float: initial;
+    }
+    .car-t-info {
+        display: inline-block;
+        width: 100%;
+    }
+    .car-t-info h5{
+        float: none;
+    }
+    .mainten-card-sm-info-r {
+        width: 100%;
+    }
+    .acc-imags ul li {
+        width: 100%;
+    }
+    .f--ul li.list-inline-item {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 2px 0;
+        padding: 0;
+        width: 100%;
+    }
+    .f--ul li button {
+        padding: 5px 13px;
+        width: 100%;
+    }
+    .categ-list-item {
+        display: inline-block;
+        width: 100%;
+        padding: 10px 3px;
+        margin: 10px 0;
+        border-bottom: 1px solid#d8d8d8;
+    }
+    .notification-page .card{
+        padding: 15px;
+    }
+    .vec-no-res p {
+        width: 68%;
+    }
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}

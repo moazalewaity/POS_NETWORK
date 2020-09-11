@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="i_support_center" transform="translate(-2544 -2149)">
+    <rect id="Rectangle_204" data-name="Rectangle 204" width="20" height="20" transform="translate(2544 2149)" fill="none"/>
+    <g id="support_2_" data-name="support (2)" transform="translate(2544 2149)">
+      <path id="Path_2827" data-name="Path 2827" d="M67.881,0a7.656,7.656,0,0,0-7.647,7.647v7.059a1.765,1.765,0,1,0,3.53,0V8.824A1.767,1.767,0,0,0,62,7.059a1.745,1.745,0,0,0-.564.1,6.464,6.464,0,0,1,12.892,0,1.733,1.733,0,0,0-.563-.1A1.767,1.767,0,0,0,72,8.824v5.882a1.767,1.767,0,0,0,1.765,1.765,1.744,1.744,0,0,0,.588-.108v.7a.589.589,0,0,1-.588.588H69.537a1.765,1.765,0,1,0,0,1.176h4.226a1.767,1.767,0,0,0,1.765-1.765V7.647A7.656,7.656,0,0,0,67.881,0Zm0,0" transform="translate(-57.881)" fill="#1272ba"/>
+      <path id="Path_2828" data-name="Path 2828" d="M481.883,213.6v6.842a1.762,1.762,0,0,0,1.176-1.656v-3.529A1.762,1.762,0,0,0,481.883,213.6Zm0,0" transform="translate(-463.059 -205.254)" fill="#1272ba"/>
+      <path id="Path_2829" data-name="Path 2829" d="M0,215.254v3.529a1.762,1.762,0,0,0,1.176,1.656V213.6A1.762,1.762,0,0,0,0,215.254Zm0,0" transform="translate(0 -205.254)" fill="#1272ba"/>
+    </g>
+  </g>
+</svg>

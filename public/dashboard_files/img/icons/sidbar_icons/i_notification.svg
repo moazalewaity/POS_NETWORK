@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="i_notification" transform="translate(-2508 -2145)">
+    <rect id="Rectangle_205" data-name="Rectangle 205" width="20" height="20" transform="translate(2508 2145)" fill="none"/>
+    <g id="bell_2_" data-name="bell (2)" transform="translate(2456.987 2145)">
+      <path id="Path_2830" data-name="Path 2830" d="M184.9,465.044a3.021,3.021,0,0,0,5.531,0Z" transform="translate(-126.73 -446.848)" fill="#1272ba"/>
+      <path id="Path_2831" data-name="Path 2831" d="M198.6,1.911a6.8,6.8,0,0,1,2.32.406V2.228A2.23,2.23,0,0,0,198.69,0H198.5a2.23,2.23,0,0,0-2.228,2.228v.088A6.809,6.809,0,0,1,198.6,1.911Z" transform="translate(-137.658)" fill="#1272ba"/>
+      <path id="Path_2832" data-name="Path 2832" d="M68.263,92.773H53.616a.6.6,0,0,1-.589-.458.569.569,0,0,1,.313-.648,3.108,3.108,0,0,0,.946-1.286,14.857,14.857,0,0,0,.986-5.879,5.666,5.666,0,0,1,11.333-.022c0,.007,0,.015,0,.022a14.857,14.857,0,0,0,.986,5.879,3.107,3.107,0,0,0,.946,1.286.569.569,0,0,1,.313.648A.6.6,0,0,1,68.263,92.773Zm.282-1.1h0Z" transform="translate(0 -75.751)" fill="#1272ba"/>
+    </g>
+  </g>
+</svg>
